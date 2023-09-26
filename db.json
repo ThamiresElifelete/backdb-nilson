@@ -1,0 +1,29 @@
+{
+ "users":[
+  {
+   "id":2,
+   "name":"jane Smith"  
+    }
+ ],
+ "posts":[
+   {
+    "id":1,
+    "title":"Post",
+    "body":"conteúdo do Post 1",
+    "userld":1
+   },
+   {
+    "id":2,
+    "title":"Post",
+    "body":"conteúdo do Post 2",
+    "userld":1
+   },
+   {
+    "id":3,
+    "title":"Post",
+    "body":"conteúdo do Post 3",
+    "userld":1
+   }
+ ]
+
+}
